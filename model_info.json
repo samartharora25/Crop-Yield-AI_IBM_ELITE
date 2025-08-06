@@ -1,0 +1,16 @@
+{
+  "model_type": "Random Forest",
+  "feature_names": [
+    "Domain",
+    "Area",
+    "Element",
+    "Item",
+    "Year",
+    "Unit"
+  ],
+  "performance_metrics": {
+    "R2_score": 0.9990472198806187,
+    "RMSE": 4094.669849482241,
+    "MAE": 1146.0347377011512
+  }
+}
